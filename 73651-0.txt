@@ -11226,6 +11226,3 @@ on House Construction suited to new countries.
    of White: ‘the Royal Docykard’ replaced by ‘the Royal Dockyard’.
    of Palmer: ‘the colleries of’ replaced by ‘the collieries of’.
    of Palmer: ‘since universelly’ replaced by ‘since universally’.
-
-
-
